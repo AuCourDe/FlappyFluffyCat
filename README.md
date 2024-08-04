@@ -1,6 +1,6 @@
 # Fluffy Puffy Cat
 
-"FalppyCat" clone game in cat style.
+"Falppy Bird" clone game in cat style.
 <p align="center">
     <img width="500" height="250" src="https://github.com/AuCourDe/FlappyFluffyCat/blob/main/samplegame.png" alt="sample game">
 </p>
